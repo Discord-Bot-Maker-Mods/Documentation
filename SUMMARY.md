@@ -7,5 +7,6 @@
 
 ## Actions
 
-* [Defining Methods](methods.md)
+* [Example](methods.md)
+* [Action List Comment](action-list-comment.md)
 
