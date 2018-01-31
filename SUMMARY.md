@@ -3,7 +3,7 @@
 ## Information
 
 * [Welcome](README.md)
-* Installation
+* [Installation](installation.md)
 
 ## Actions
 
