@@ -2,7 +2,7 @@
 
 ## Information
 
-* [Introduction](README.md)
+* [Welcome](README.md)
 * Installation
 
 ## Actions
