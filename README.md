@@ -1,4 +1,4 @@
-# DBM Mods - Introduction
+# Introduction
 
 Welcome the documentation of DBM Mods.
 

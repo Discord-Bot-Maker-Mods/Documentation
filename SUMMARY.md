@@ -1,9 +1,11 @@
 # Summary
 
-## Overview
+## Information
 
-* [My Awesome API](README.md)
+* [Introduction](README.md)
+* Installation
 
-## Methods
+## Actions
 
 * [Defining Methods](methods.md)
+
